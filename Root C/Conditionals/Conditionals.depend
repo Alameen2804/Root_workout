@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1667070426 source:c:\users\alameen\documents\c\conditionals\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
